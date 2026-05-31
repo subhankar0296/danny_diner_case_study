@@ -24,7 +24,7 @@ Using a relational database schema, I wrote advanced, optimized queries to extra
 4. **Data Mart Reporting View:** Flattened the normalized operational tables into a single unified reporting master view for non-technical business stakeholders.
 
 ## 📂 Repository Structure
-* `solution.sql`: Contains the complete database schema creation script, mock data ingestion, and fully commented solutions for all 10 business scenario questions.
+* `danny_diner_case_study.sql`: Contains the complete database schema creation script, mock data ingestion, and fully commented solutions for all 10 business scenario questions.
 
 ---
 *Maintained by Subhankar as part of a technical data analytics portfolio.*
